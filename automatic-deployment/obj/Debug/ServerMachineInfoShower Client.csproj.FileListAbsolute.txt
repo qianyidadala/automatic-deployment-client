@@ -1,0 +1,12 @@
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\obj\Debug\ServerMachineInfoShower_Client.AddServerMachine.resources
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\obj\Debug\ServerMachineInfoShower_Client.Client.resources
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\obj\Debug\ServerMachineInfoShower_Client.Comparison.resources
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\obj\Debug\ServerMachineInfoShower_Client.Properties.Resources.resources
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\obj\Debug\ServerMachineInfoShower Client.csproj.GenerateResource.cache
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\obj\Debug\ServerMachineInfoShower Client.csproj.CoreCompileInputs.cache
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\bin\Debug\ServerMachineInfoShower Client.exe
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\bin\Debug\ServerMachineInfoShower Client.pdb
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\bin\Debug\Newtonsoft.Json.dll
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\obj\Debug\ServerMachineInfoShower Client.csproj.CopyComplete
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\obj\Debug\ServerMachineInfoShower Client.exe
+C:\Icefrog\DeveloperTemp\paicheji-smis-master\smis\ServerMachineInfoShower Client\obj\Debug\ServerMachineInfoShower Client.pdb
